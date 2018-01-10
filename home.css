@@ -1,8 +1,37 @@
 #first-section{
-  background-color: #EEEEEE;
   text-align: center;
+  margin-top: -35px;
 }
 
 .container-large {
   max-width: 100%;
+}
+
+#startedBtn{
+  margin-top: 20px;
+}
+
+fieldset
+{
+border: 1px solid #ddd !important;
+margin: 0;
+xmin-width: 0;
+padding: 10px;
+position: relative;
+}
+
+legend
+{
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  width: 10%;
+  padding: 5px 5px 5px 5px;
+  text-align: center;
+}
+
+.panel-body{
+  margin-top: 10px;
+  border: 1px solid black;
+  width: 45%;
 }
