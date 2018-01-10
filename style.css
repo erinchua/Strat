@@ -7,3 +7,26 @@ body {
 #logo{
   margin-top: -10px;
 }
+
+.container-small{
+  background-color: #424242;
+  color: #BDBDBD;
+}
+
+.footer-nav ul.list{
+  list-style: none;
+  font-size: 10px;
+}
+
+.footer-nav{
+  border-left: solid 1px rgba(255,255,255,0.10);
+  margin-top: 20px;
+}
+
+.footer-bs, section{
+  margin: 0px 20px;
+}
+
+#about{
+  border: 0;
+}
